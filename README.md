@@ -1,1 +1,1 @@
-# sdlc-agent
+# agentic-crm
